@@ -16,7 +16,7 @@ Related stacks:
 For discussion, please check out the
 https://groups.google.com/group/ros-sig-navigation mailing list.
 
-ROS 1 Navigation Stack
+ROS 1 Navigation Stack workflow
 │
 ├── STARTUP
 │   ├── map_server ──────── 載入已知地圖 (.yaml + .pgm)
