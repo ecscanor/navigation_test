@@ -1,5 +1,7 @@
 terminal: ssh (-v, optional) (user)@(192.168.1.55)
 
+If a window file is transferred to linux, the line ending format needs to changed from crlf to lf.
+
 git normal step:
     git add .
     git commit -m "text"
