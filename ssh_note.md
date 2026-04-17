@@ -27,3 +27,5 @@ git envirenoment setting:
 
     # 把 remote 改成 SSH
     git remote set-url origin git@github.com:ecscanor/navigation_test.git
+
+    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
